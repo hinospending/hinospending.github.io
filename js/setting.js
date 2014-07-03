@@ -16,7 +16,6 @@ OpenSpending.year = '2014';
 OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
-
   /* yokohama cofog */
   '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
