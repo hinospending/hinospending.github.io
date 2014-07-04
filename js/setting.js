@@ -43,15 +43,15 @@ OpenSpending.Styles.Cofog = {
   '8.3': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
   '8.4': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
   '9': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
- '10.1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
- '10.2': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
- '10.3': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
- '10.4': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
- '10.5': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
- '10.6': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
- '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
- '12': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '10.1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '10.2': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '10.3': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '10.4': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '10.5': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '10.6': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '12': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
  '13': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
 };
 
