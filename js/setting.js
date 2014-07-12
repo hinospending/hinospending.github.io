@@ -16,25 +16,42 @@ OpenSpending.year = '2014';
 OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
-  /* yokohama cofog */
+    /*議会費*/
   '1': { icon: 'icons/hino/government.svg', color: '#C75746', bcolor: '#935B3B' },
+/*議会費*/
   '101': { icon: 'icons/hino/government.svg', color: '#C75746', bcolor: '#935B3B' },
+/*総務費*/
   '2': { icon: 'icons/hino/publicaffairs.svg', color: '#C75746', bcolor: '#935B3B' },
+    /*総務管理費*/
   '201': { icon: 'icons/hino/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
-  '202': { icon: 'icons/hino/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
+    /*徴税費*/
+  '202': { icon: 'icons/hino/money.svg', color: '#C75746', bcolor: '#0AB971' },
+    /*戸籍住民基本台帳費*/
   '203': { icon: 'icons/hino/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
-  '204': { icon: 'icons/hino/publicaffairs.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '205': { icon: 'icons/hino/publicaffairs.svg', color: '#C75746', bcolor: '#4E6D00' },
+    /*選挙費*/
+  '204': { icon: 'icons/hino/vote.svg', color: '#C75746', bcolor: '#4E6D00' },
+/*統計調査費*/
+  '205': { icon: 'icons/hino/ekonomija.svg', color: '#C75746', bcolor: '#4E6D00' },
+/*監査委員費*/
   '206': { icon: 'icons/hino/publicaffairs.svg', color: '#C75746', bcolor: '#4E6D00' },
+/*民生費*/
   '3': { icon: 'icons/hino/civilian-action.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '301': { icon: 'icons/hino/civilian-action.svg', color: '#C75746', bcolor: '#D33673' },
-  '302': { icon: 'icons/hino/civilian-action.svg', color: '#C75746', bcolor: '#D33673' },
-  '303': { icon: 'icons/hino/civilian-action.svg', color: '#C75746', bcolor: '#D33673' },
-  '304': { icon: 'icons/hino/civilian-action.svg', color: '#C75746', bcolor: '#D33673' },
+  /*社会福祉費*/
+  '301': { icon: 'icons/hino/helping-others.svg', color: '#C75746', bcolor: '#D33673' },
+  /*児童福祉費*/
+  '302': { icon: 'icons/hino/schools.svg', color: '#C75746', bcolor: '#D33673' },
+  /*生活保護費*/
+  '303': { icon: 'icons/hino/unemployment.svg', color: '#C75746', bcolor: '#D33673' },
+  /*災害救助費*/
+  '304': { icon: 'icons/hino/restoration.svg', color: '#C75746', bcolor: '#D33673' },
+/*衛生費*/
   '4': { icon: 'icons/hino/health.svg', color: '#C75746', bcolor: '#2A3A03' },
+/*保健衛生費*/
   '401': { icon: 'icons/hino/health.svg', color: '#C75746', bcolor: '#2A3A03'  },
-  '402': { icon: 'icons/hino/health.svg', color: '#C75746', bcolor: '#2A3A03'  },
-  '403': { icon: 'icons/hino/health.svg', color: '#C75746', bcolor: '#EC2406' },
+/*清掃費*/
+  '402': { icon: 'icons/hino/garbage.svg', color: '#C75746', bcolor: '#2A3A03'  },
+/*病院費*/
+  '403': { icon: 'icons/hino/hospital.svg', color: '#C75746', bcolor: '#EC2406' },
   '5': { icon: 'icons/hino/labour.svg', color: '#C75746', bcolor: '#EC2406' },
 '501': { icon: 'icons/hino/labour.svg', color: '#C75746', bcolor: '#EC2406' },
   '6': { icon: 'icons/hino/farms.svg', color: '#C75746', bcolor: '#938626' },
