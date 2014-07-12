@@ -33,7 +33,7 @@ OpenSpending.Styles.Cofog = {
 /*統計調査費*/
   '205': { icon: 'icons/ekonomija.svg', color: '#C75746', bcolor: '#4E6D00' },
 /*監査委員費*/
-  '206': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '206': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#4E6D00' },
 /*民生費*/
   '3': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#4E6D00' },
   /*社会福祉費*/
