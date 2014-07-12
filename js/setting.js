@@ -56,3 +56,4 @@ OpenSpending.Styles.Cofog = {
 };
 
 
+
