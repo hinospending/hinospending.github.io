@@ -83,29 +83,29 @@ OpenSpending.Styles.Cofog = {
 /*教育費*/
   '10': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
 /*教育総務費*/
- '191': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '191': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' },
 /*小学校費*/
- '192': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '192': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#790586' },
 /*中学校費*/
- '193': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '193': { icon: 'icons/secondary-lower.svg', color: '#C75746', bcolor: '#790586' },
 /*幼稚園費*/
- '194': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '194': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#790586' },
 /*社会教育費*/
- '195': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '195': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#790586' },
 /*体育費*/
- '196': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '196': { icon: 'icons/sports.svg', color: '#C75746', bcolor: '#790586' },
 /*公債費*/
- '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '11': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' },
 /*公債費*/
- '111': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '111': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' },
 /*公営企業費*/
-    '12': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+    '12': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#790586' },
 /*公営企業費*/
-    '121': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+    '121': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#790586' },
 /*予備費*/
- '13': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+ '13': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#790586' },
 /*予備費*/
- '131': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+ '131': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#790586' }
 };
 
 
